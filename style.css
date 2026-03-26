@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+nav {
+  background: black;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.hero {
+  text-align: center;
+  padding: 50px;
+  background: #ffd1dc;
+  color: black;
+}
+
+.skills, .contact {
+  padding: 40px;
+  text-align: center;
+}
